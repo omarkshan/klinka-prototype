@@ -1,0 +1,23 @@
+{
+  "name": "klinka-prototype",
+  "version": "1.0.0",
+  "description": "Klinka is a network for holding and transfering medical records based on Ethereum, giving the ability to the network to be available to the public.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarkshan/klinka-prototype.git"
+  },
+  "keywords": [
+    "EHR",
+    "Ethereum"
+  ],
+  "author": "Omar Shan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarkshan/klinka-prototype/issues"
+  },
+  "homepage": "https://github.com/omarkshan/klinka-prototype#readme"
+}
